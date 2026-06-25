@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ali Khoso
-### AI Automation Engineer · CRM Specialist · B2B Lead Generation Expert
+### AI Developer and Automation Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alikhoso81&color=blue)
 
