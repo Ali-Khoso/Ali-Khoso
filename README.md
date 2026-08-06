@@ -57,4 +57,5 @@
 ---
 
 ## 📊 GitHub Stats
+![Stats](https://github-readme-stats-lime-eta.vercel.app/api?username=Alikhoso81&show_icons=true&theme=dark)
 ![Streak](https://streak-stats.demolab.com?user=Alikhoso81&theme=dark)
