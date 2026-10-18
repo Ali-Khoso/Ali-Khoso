@@ -1,60 +1,91 @@
-# Hi 👋, I'm Ali Khoso
-### AI Developer and Automation Engineer
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Alikhoso81&color=blue)
+# Hi 👋, I’m Ali Ahmed Khoso
 
----
+### AI Automation Engineer | AI Voice Agents | CRM & Lead Automation
 
-## 🧑‍💻 About Me
-- 🤖 Building intelligent **AI Automation workflows** using n8n, Make & LangChain
-- 📊 Specialized in **CRM systems, CRMS & B2B Lead Generation** strategy
-- 🎯 Expert in **targeted Lead Generation** for B2B clients across industries
-- 🖥️ Currently progressing in **App & Desktop Development**
-- 📬 Reach me at **aliahmedkhoso17081@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-aliahmedkhoso.dev-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aliahmedkhoso.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ahmed-khoso/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ali--Khoso-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Khoso)
 
----
+![Profile views](https://komarev.com/ghpvc/?username=Ali-Khoso&color=6366f1&style=flat-square&label=Profile+Views)
 
-## 🖥️ Apps (Desktop & Mobile)
-- [**SpreadHopeFoundation**](https://github.com/Alikhoso81/SpreadHopeFoundation) — Android app
-- [**Student-Info-Mangement-Portal**](https://github.com/Alikhoso81/Student-Info-Mangement-Portal) — Desktop app (C# .NET WPF)
-- [**CensusDB**](https://github.com/Alikhoso81/CensusDB) — Desktop app
-
-## 🐍 Python Projects & Scrapers
-- [**emotion-detection-app**](https://github.com/Alikhoso81/emotion-detection-app) — Python-based emotion detection
-- [**google-maps-scraper**](https://github.com/Alikhoso81/google-maps-scraper) — Python-based lead-gen automation tool
-
-## ⚙️ Automation & AI Workflows
-- [**Cold-Email-Automation**](https://github.com/Alikhoso81/Cold-Email-Automation) — AI-powered cold outreach system (n8n + Google Gemini)
-- [**n8n-Leads-scraper**](https://github.com/Alikhoso81/n8n-Leads-scraper) — n8n-based lead scraping workflow
-- [**ai-leadgen-system**](https://github.com/Alikhoso81/ai-leadgen-system) — AI-driven lead generation system
-
-## 🌐 Full-Stack Websites
-- [**portfolio**](https://github.com/Alikhoso81/portfolio) — Personal portfolio website
-- [**jubili-hall-booking-website**](https://github.com/Alikhoso81/jubili-hall-booking-website) — Hall booking platform
-- [**SmartFlowProject**](https://github.com/Alikhoso81/SmartFlowProject) — Website form-building platform
+</div>
 
 ---
 
-## 🛠️ Tools & Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=make&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+## 🤖 About Me
+
+- ⚙️ Building AI-powered business automations with **n8n, GoHighLevel (GHL), Make, Zapier, and Airtable**.
+- 🎙️ Creating **AI voice agents, automated receptionists, and appointment-booking flows** with **Vapi and Twilio**.
+- 📈 Working on **CRM workflows, B2B lead generation, cold outreach, and follow-up automation**.
+- 🔗 Connecting apps through **APIs, webhooks, AI agents, and LangChain/RAG**.
+- 💻 Also building web, mobile, and desktop applications using **Python, React, Kotlin, and C#/.NET**.
+- 📬 **Email:** [aliahmedkhoso17081@gmail.com](mailto:aliahmedkhoso17081@gmail.com)
+
+## 🛠️ Automation Tools & Technologies
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-2563EB?style=flat-square)
+![Vapi](https://img.shields.io/badge/Vapi-171717?style=flat-square)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+
+## ⚡ Automation & AI Projects
+
+- [**Cold-Email-Automation**](https://github.com/Ali-Khoso/Cold-Email-Automation) — AI-assisted cold-email outreach workflow.
+- [**n8n-Leads-scraper**](https://github.com/Ali-Khoso/n8n-Leads-scraper) — Lead-scraping workflow with n8n.
+- [**ai-leadgen-system**](https://github.com/Ali-Khoso/ai-leadgen-system) — AI-powered lead generation.
+- [**google-maps-scraper**](https://github.com/Ali-Khoso/google-maps-scraper) — Python automation for lead collection.
+
+## 💻 Other Projects
+
+**Mobile & Desktop**
+
+- [SpreadHopeFoundation](https://github.com/Ali-Khoso/SpreadHopeFoundation) — Android application.
+- [Student-Info-Mangement-Portal](https://github.com/Ali-Khoso/Student-Info-Mangement-Portal) — C#/.NET WPF desktop app.
+- [CensusDB](https://github.com/Ali-Khoso/CensusDB) — Citizen/household desktop application.
+
+**Python, AI & Web**
+
+- [emotion-detection-app](https://github.com/Ali-Khoso/emotion-detection-app) — Python emotion detection.
+- [jubili-hall-booking-website](https://github.com/Ali-Khoso/jubili-hall-booking-website) — Venue booking management system.
+- [SmartFlowProject](https://github.com/Ali-Khoso/SmartFlowProject) — Web form-building platform.
+- [portfolio](https://github.com/Ali-Khoso/portfolio) — [Personal portfolio website](https://aliahmedkhoso.dev).
+
+---
+
+## 📊 GitHub Stats, Commits & Contributions
+
+<div align="center">
+
+<!-- Includes publicly accessible commits across years, not just the current year. -->
+<a href="https://github.com/Ali-Khoso"><img height="190" alt="GitHub statistics: commits, stars, PRs and issues" src="https://github-readme-stats.vercel.app/api?username=Ali-Khoso&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Ali-Khoso"><img height="190" alt="Total contributions, current streak, and longest streak" src="https://streak-stats.demolab.com/?user=Ali-Khoso&theme=tokyonight&hide_border=true" /></a>
+
+</div>
+
+### 🌟 Contribution Overview
+
+![GitHub contribution summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Khoso&theme=tokyonight)
+
+### 📈 Recent Contribution Activity
+
+![GitHub recent activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ali-Khoso&theme=react-dark&hide_border=true&area=true)
+
+> Statistics update automatically from publicly available GitHub activity. Some third-party image services may occasionally rate-limit requests. Private contributions and commits may not be included in every card.
 
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ahmed-khoso)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ahmed-khoso/)
 [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/aliahmedkhoso)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliahmedkhoso17081@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alikhoso81)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aliahmedkhoso.dev)
 
----
-
-## 📊 GitHub Stats
-![Streak](https://streak-stats.demolab.com?user=Alikhoso81&theme=dark)
