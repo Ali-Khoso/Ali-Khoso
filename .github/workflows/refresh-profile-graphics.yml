@@ -1,0 +1,45 @@
+name: Refresh GitHub profile graphics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "13 4 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "scripts/render_profile_graphics.py"
+      - ".github/workflows/refresh-profile-graphics.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-graphics
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate both SVG graphics using GitHub's contribution API
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/render_profile_graphics.py
+      - name: Commit updated graphics when data changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg assets/github-activity.svg
+          if git diff --cached --quiet; then
+            echo "No changes in profile graphics."
+          else
+            git commit -m "chore(stats): update self-hosted GitHub profile graphics"
+            git push origin HEAD:main
+          fi
