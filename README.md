@@ -64,8 +64,8 @@
 
 <div align="center">
 
-<!-- Includes publicly accessible commits across years, not just the current year. -->
-<a href="https://github.com/Ali-Khoso"><img height="190" alt="GitHub statistics: commits, stars, PRs and issues" src="https://github-readme-stats.vercel.app/api?username=Ali-Khoso&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" /></a>
+<!-- These local SVG images are refreshed daily by GitHub Actions; contribution counts cover the past 12 months. -->
+<a href="https://github.com/Ali-Khoso"><img height="190" alt="GitHub statistics: commits, stars, PRs and issues" src="assets/github-stats.svg" /></a>
 <a href="https://github.com/Ali-Khoso"><img height="190" alt="Total contributions, current streak, and longest streak" src="https://streak-stats.demolab.com/?user=Ali-Khoso&theme=tokyonight&hide_border=true" /></a>
 
 </div>
@@ -76,7 +76,7 @@
 
 ### 📈 Recent Contribution Activity
 
-![GitHub recent activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ali-Khoso&theme=react-dark&hide_border=true&area=true)
+![GitHub recent activity graph](assets/github-activity.svg)
 
 > Statistics update automatically from publicly available GitHub activity. Some third-party image services may occasionally rate-limit requests. Private contributions and commits may not be included in every card.
 
